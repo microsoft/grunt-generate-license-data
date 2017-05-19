@@ -1,0 +1,4 @@
+backbone;production;0.0.1;MIT;https://github.com/Microsoft/grunt-generate-license-data/backbone;;top-level
+jquery;production;3.0.0;GPL;https://github.com/Microsoft/grunt-generate-license-data/jquery;;transitive
+mocha;build-only;0.0.2;GPL;https://github.com/Microsoft/grunt-generate-license-data/mocha;;top-level
+underscore;build-only;1.0.0;GPL;https://github.com/Microsoft/grunt-generate-license-data/underscore;;transitive

@@ -1,0 +1,12 @@
+{
+  "name": "test-npm-nested",
+  "version": "0.0.1",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/Microsoft/grunt-generate-license-data/test-npm-nested",
+  "devDependencies": {
+    "mocha": "0.0.2"
+  },
+  "dependencies": {
+    "backbone": "0.0.1"
+  }
+}

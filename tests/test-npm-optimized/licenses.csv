@@ -1,0 +1,2 @@
+lib-a;production;0.0.1;MIT;https://github.com/Microsoft/grunt-generate-license-data/lib-a;;top-level
+lib-b;production;0.0.1;GPL;https://github.com/Microsoft/grunt-generate-license-data/lib-b;;transitive

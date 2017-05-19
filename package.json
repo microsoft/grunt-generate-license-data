@@ -1,0 +1,22 @@
+{
+  "name": "grunt-generate-license-data",
+  "version": "0.0.1",
+  "description": "A grunt task that generates a list of all the project dependencies (including transitive ones)",
+  "keywords": [
+    "license",
+    "OSS",
+    "gruntplugin"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "homepage": "https://github.com/Microsoft/grunt-generate-license-data",
+  "dependencies": {
+    "underscore": "1.8.3"
+  },
+  "publishConfig": {
+    "registry": "https://repository.admin.social.dynamics.com/content/repositories/npm-internal/"
+  },
+  "devDependencies": {
+    "grunt": "1.0.1"
+  }
+}
