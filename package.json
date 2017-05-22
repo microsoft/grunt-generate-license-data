@@ -1,6 +1,6 @@
 {
   "name": "grunt-generate-license-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A grunt task that generates a list of all the project dependencies (including transitive ones)",
   "keywords": [
     "license",
